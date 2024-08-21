@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Bomble</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="left"alt="coding"widht="6"src="![image](https://github.com/siddhesh2462/siddhesh/assets/141734589/3f045869-9d98-48ec-b83b-758ddc282c5c")
+<img align="left"alt="coding"widht="6"src="![image](https://github.com/siddhesh2462/siddhesh/assets/141734589/3f045869-9d98-48ec-b83b-758ddc282c5c">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhesh2462&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesh2462" /> </p>
 
